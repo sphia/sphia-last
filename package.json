@@ -1,0 +1,13 @@
+{
+  "name": "sphia-last",
+  "version": "0.0.1",
+  "repo": "sphia/sphia-last",
+  "description": "Get the last key set in a Sophia database",
+  "keywords": [ "sophia", "sphia", "cli", "last" ],
+  "license": "MIT",
+  "install": "make install",
+  "dependencies": {
+    "clibs/commander": "*",
+    "sphia/sphia-macro": "*"
+  }
+}

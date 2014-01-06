@@ -1,0 +1,9 @@
+{
+  "name": "sphia-macro",
+  "version": "0.0.1",
+  "repo": "sphia/sphia-macro",
+  "description": "Macros for working with sophiadb",
+  "keywords": ["sophia", "sphia", "macro", "util"],
+  "license": "MIT",
+	"src": ["sphia-macro.h"]
+}
